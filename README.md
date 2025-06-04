@@ -1,1 +1,1 @@
-# Vansh's React Video Call App
+# Vansh's Video Chat App
