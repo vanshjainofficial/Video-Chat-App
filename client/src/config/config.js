@@ -1,6 +1,6 @@
 import { io } from "socket.io-client";
 
-const URL = "http://localhost:5002";
+const URL = "https://video-chat-app-w0gr.onrender.com";
 // const URL = "https://video-call-server-gm7i.onrender.com";
 
 export const socket = io(URL);
