@@ -41,7 +41,7 @@
 }
 
 .chat-input:focus {
-    border: 1px solid #9B1FE8 !important;
+    border: 1px solid #adadad !important;
 }
 
 .chat-input::placeholder {
@@ -61,7 +61,7 @@
 }
 
 .send-message {
-    color: #8d00e4 !important;
+    color: #858585 !important;
     cursor: pointer !important;
 }
 
@@ -99,8 +99,8 @@
 
 .message-sent {
     align-self: flex-end !important;
-    background-color: #8d00e4 !important;
-    border: 1px solid #8d00e4 !important;
+    background-color: #9b9b9b !important;
+    border: 1px solid #d0d0d0 !important;
     color: #fff !important;
     word-wrap: break-word !important;
     font-weight: 500 !important;
@@ -112,7 +112,7 @@
 }
 
 .notification-message {
-    color: #8d00e4 !important;
+    color: #969696 !important;
 }
 
 .custom-toast {

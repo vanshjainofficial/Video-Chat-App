@@ -14,25 +14,25 @@
 }
 
 .form-main-btn {
-    border: 1px solid #9B1FE8 !important;
-    background-color: #9B1FE8 !important;
+    border: 1px solid #3a005d !important;
+    background-color: #000000 !important;
     margin-top: 12px !important;
     width: 100% !important;
     font-weight: 500 !important;
 }
 
 .form-main-btn:hover {
-    border: 1px solid #8d00e4 !important;
-    background-color: #8d00e4 !important;
+    border: 1px solid #8d8d8d !important;
+    background-color: #7e7e7e !important;
 }
 
 .form-input {
-    border: 1px solid #9B1FE8 !important;
+    border: 1px solid #909090 !important;
 }
 
 .form-input:focus {
     outline: none !important;
-    border: 1px solid #9B1FE8 !important;
+    border: 1px solid #707070 !important;
     box-shadow: none !important;
     -webkit-box-shadow: none !important;
 }
